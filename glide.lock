@@ -1,10 +1,12 @@
-hash: e19b925b9eaca9a10a7742b4a4b1dc8047bff437584538dda59f4f10e69fa6ca
-updated: 2018-01-29T17:36:52.158516-08:00
+hash: cc9a4e13e63bbf15dc735eee0518c46c2a7a4b56a7c18caa66b2ef2c943aed60
+updated: 2018-02-13T19:55:59.353108-08:00
 imports:
 - name: github.com/bgentry/go-netrc
   version: 9fd32a8b3d3d3f9d43c341bfe098430e07609480
   subpackages:
   - netrc
+- name: github.com/git-lfs/wildmatch
+  version: 9f16c03962f4485b2ff84bb8a64284c60c541cbc
 - name: github.com/inconshreveable/mousetrap
   version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
 - name: github.com/kr/pty
